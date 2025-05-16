@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\HW5 class\HW5 class\bin\Debug\HW5 class.exe.config
+C:\Users\USER\source\repos\HW5 class\HW5 class\bin\Debug\HW5 class.exe
+C:\Users\USER\source\repos\HW5 class\HW5 class\bin\Debug\HW5 class.pdb
+C:\Users\USER\source\repos\HW5 class\HW5 class\obj\Debug\HW5 class.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW5 class\HW5 class\obj\Debug\HW5 class.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW5 class\HW5 class\obj\Debug\HW5 class.exe
+C:\Users\USER\source\repos\HW5 class\HW5 class\obj\Debug\HW5 class.pdb
