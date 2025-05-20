@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\HW5 Inches\HW5 Inches\bin\Debug\HW5 Inches.exe.config
+C:\Users\USER\source\repos\HW5 Inches\HW5 Inches\bin\Debug\HW5 Inches.exe
+C:\Users\USER\source\repos\HW5 Inches\HW5 Inches\bin\Debug\HW5 Inches.pdb
+C:\Users\USER\source\repos\HW5 Inches\HW5 Inches\obj\Debug\HW5 Inches.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW5 Inches\HW5 Inches\obj\Debug\HW5 Inches.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW5 Inches\HW5 Inches\obj\Debug\HW5 Inches.exe
+C:\Users\USER\source\repos\HW5 Inches\HW5 Inches\obj\Debug\HW5 Inches.pdb

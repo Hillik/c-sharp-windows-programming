@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\HW5 IPrice\HW5 IPrice\bin\Debug\HW5 IPrice.exe.config
+C:\Users\USER\source\repos\HW5 IPrice\HW5 IPrice\bin\Debug\HW5 IPrice.exe
+C:\Users\USER\source\repos\HW5 IPrice\HW5 IPrice\bin\Debug\HW5 IPrice.pdb
+C:\Users\USER\source\repos\HW5 IPrice\HW5 IPrice\obj\Debug\HW5 IPrice.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW5 IPrice\HW5 IPrice\obj\Debug\HW5 IPrice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW5 IPrice\HW5 IPrice\obj\Debug\HW5 IPrice.exe
+C:\Users\USER\source\repos\HW5 IPrice\HW5 IPrice\obj\Debug\HW5 IPrice.pdb
